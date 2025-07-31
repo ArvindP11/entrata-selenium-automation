@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-31T23:26:15 IST" name="Surefire suite" finished-at="2025-07-31T23:27:41 IST" duration-ms="85655">
+    <groups>
+    </groups>
+    <test started-at="2025-07-31T23:26:15 IST" name="Surefire test" finished-at="2025-07-31T23:27:41 IST" duration-ms="85655">
+      <class name="tests.NavigationTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NavigationTests@2b91004a]" started-at="2025-07-31T23:27:00 IST" name="setup" finished-at="2025-07-31T23:27:06 IST" duration-ms="5968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testNavigateToCareersPage()[pri:0, instance:tests.NavigationTests@2b91004a]" started-at="2025-07-31T23:27:06 IST" name="testNavigateToCareersPage" finished-at="2025-07-31T23:27:09 IST" duration-ms="3188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigateToCareersPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.NavigationTests@2b91004a]" started-at="2025-07-31T23:27:09 IST" name="tearDown" finished-at="2025-07-31T23:27:09 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.NavigationTests@2b91004a]" started-at="2025-07-31T23:27:09 IST" name="setup" finished-at="2025-07-31T23:27:36 IST" duration-ms="26621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testNavigateToContactPage()[pri:0, instance:tests.NavigationTests@2b91004a]" started-at="2025-07-31T23:27:36 IST" name="testNavigateToContactPage" finished-at="2025-07-31T23:27:40 IST" duration-ms="4870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigateToContactPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.NavigationTests@2b91004a]" started-at="2025-07-31T23:27:40 IST" name="tearDown" finished-at="2025-07-31T23:27:41 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.NavigationTests -->
+      <class name="tests.DynamicContentTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.DynamicContentTests@4229bb3f]" started-at="2025-07-31T23:26:15 IST" name="setup" finished-at="2025-07-31T23:26:22 IST" duration-ms="6901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testMainHeadlineVisibility()[pri:0, instance:tests.DynamicContentTests@4229bb3f]" started-at="2025-07-31T23:26:22 IST" name="testMainHeadlineVisibility" finished-at="2025-07-31T23:26:28 IST" duration-ms="6314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMainHeadlineVisibility -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.DynamicContentTests@4229bb3f]" started-at="2025-07-31T23:26:28 IST" name="tearDown" finished-at="2025-07-31T23:26:29 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.DynamicContentTests -->
+      <class name="tests.FormInteractionTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FormInteractionTests@56cdfb3b]" started-at="2025-07-31T23:26:29 IST" name="setup" finished-at="2025-07-31T23:26:55 IST" duration-ms="26054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testInputFieldsOnWatchDemoPage()[pri:0, instance:tests.FormInteractionTests@56cdfb3b]" started-at="2025-07-31T23:26:55 IST" name="testInputFieldsOnWatchDemoPage" finished-at="2025-07-31T23:26:59 IST" duration-ms="4604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputFieldsOnWatchDemoPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FormInteractionTests@56cdfb3b]" started-at="2025-07-31T23:26:59 IST" name="tearDown" finished-at="2025-07-31T23:27:00 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FormInteractionTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
